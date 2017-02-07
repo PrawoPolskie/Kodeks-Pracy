@@ -6,4 +6,5 @@
     * [Art. 1. \[Zakres regulacji\]](art_1.md)
     * [Art. 2. \[Definicja pracownika\]](art_2.md)
     * [Art. 3. \[Definicja pracodawcy\]](art_3.md)
+    * [Art. 3<sup>1</sup>. \[Czynności z zakresu prawa pracy\]](art_3_1.md)
 
