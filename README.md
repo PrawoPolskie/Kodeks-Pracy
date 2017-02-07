@@ -1,3 +1,12 @@
-# My Awesome Book
+## USTAWA
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+z dnia 26 czerwca 1974 r.
+
+# Kodeks Pracy
+
+---
+
+\(t.j. Dz.U. z 2016 r. poz. 1666, zm.: Dz.U. z 2009 r., Nr 56, poz. 458\)
+
+Preambuła \(uchylona\)
+
