@@ -10,4 +10,6 @@
       * [§ 1](art_3_1-1.md)
       * [§ 2](art_3_1-2.md)
     * [Art. 4.](art_4.md)
-
+    * [Art. 5. \[Przepisy szczególne\]](art_5.md)
+    * [Art. 6.](art_6.md)
+    * [Art. 7.](art_7.md)
