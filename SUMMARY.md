@@ -1,5 +1,7 @@
 # Summary
 
 * [Wstęp](README.md)
-* [First Chapter](chapter1.md)
+* [DZIAŁ PIERWSZY - PRZEPISY OGÓLNE](DZIAL_PIERWSZY.md)
+  * [Rozdział I - Przepisy wstępne](DZIAL_PIERWSZY/rozdzial-i.md)
+    * Art. 1. \[Zakres regulacji\]
 
