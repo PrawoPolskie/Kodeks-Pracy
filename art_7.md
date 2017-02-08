@@ -1,3 +1,3 @@
-#### Art.7. {#art_7}
+#### Art.7.
 
 (uchylony)

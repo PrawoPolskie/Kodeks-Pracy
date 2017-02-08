@@ -1,3 +1,3 @@
-#### Art.6. {#art_6}
+#### Art.6.
 
 (uchylony)

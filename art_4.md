@@ -1,3 +1,3 @@
-#### Art.4. {#art_4}
+#### Art.4.
 
 (uchylony)
