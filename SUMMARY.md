@@ -35,7 +35,7 @@
     * [Art. 11\(2\). \[Równe prawa pracowników\]](art_11_2.md)
     * [Art. 11\(3\). \[Zakaz dyskryminacji\]](art_11_3.md)
     * [Art. 12.](art_12.md)
-    * [Art. 13.](art_13.md)
+    * [Art. 13. \[Prawo do godziwego wynagrodzenia\]](art_13.md)
     * [Art. 14.](art_14.md)
     * [Art. 15.](art_15.md)
     * [Art. 16.](art_16.md)
