@@ -1,0 +1,1 @@
+### STOSUNEK PRACY
