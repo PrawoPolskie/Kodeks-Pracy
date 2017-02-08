@@ -1,1 +1,1 @@
-#### Podstawowe zasady pracy
+#### Podstawowe zasady prawa pracy
