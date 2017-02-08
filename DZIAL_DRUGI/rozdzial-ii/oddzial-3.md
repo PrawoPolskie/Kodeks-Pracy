@@ -1,0 +1,1 @@
+##### Rozwiązanie umowy o pracę za wypowiedzeniem
