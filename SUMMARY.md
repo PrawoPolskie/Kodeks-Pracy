@@ -25,4 +25,10 @@
       * [§ 3](art_9_1-3.md)
       * [§ 4](art_9_1-4.md)
       * [§ 4](art_9_1-5.md)
-    
+  * [Rozdział II](DZIAL_PIERWSZY/rozdzial-ii.md)
+    * [Art. 10. \[Prawo do pracy\]](art_10.md)
+      * [§ 1](art_10-1.md)
+      * [§ 2](art_10-2.md)
+      * [§ 3](art_10-3.md)
+    * [Art. 11. \[Nawiązanie stosunku pracy\]](art_11.md)
+    * [Art. 305.](art_305.md)
