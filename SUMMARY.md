@@ -26,7 +26,6 @@
       * [§ 4](art_9_1-4.md)
       * [§ 5](art_9_1-5.md)
   * [Rozdział II](DZIAL_PIERWSZY/rozdzial-ii.md)
-    * [Oddział 1](DZIAL_PIERWSZY/rozdzial-i/oddzial-1.md)
     * [Art. 10. \[Prawo do pracy\]](art_10.md)
       * [§ 1](art_10-1.md)
       * [§ 2](art_10-2.md)
@@ -409,4 +408,5 @@
     * [Art. 303.](art_303.md)
     * [Art. 304.](art_304.md)
     * [Art. 305.](art_305.md)
+  * [Rozdział IIa](DZIAL_PIERWSZY/rozdzial-iia.md)
 
