@@ -1,1 +1,1 @@
-uchylone
+uchylony
