@@ -1,0 +1,1 @@
+### PRZEPISY KOŃCOWE
