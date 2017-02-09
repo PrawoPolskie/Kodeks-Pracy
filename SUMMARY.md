@@ -19,7 +19,7 @@
       * [§ 2](art_9-2.md)
       * [§ 3](art_9-3.md)
       * [§ 4](art_9-4.md)
-    * [Art. 9\(1\). \[Porozumienie o zawieszeniu stosowania przepisów prawa pracy\]](art_3_1.md)
+    * [Art. 9\(1\). \[Porozumienie o zawieszeniu stosowania przepisów prawa pracy\]](art_9_1.md)
       * [§ 1](art_9_1-1.md)
       * [§ 2](art_9_1-2.md)
       * [§ 3](art_9_1-3.md)
