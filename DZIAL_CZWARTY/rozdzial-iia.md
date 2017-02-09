@@ -1,1 +1,1 @@
-####
+#### Zakaz konkurencji
