@@ -481,7 +481,7 @@
   * [Art. 292.](art_292.md)
   * [Art. 293.](art_293.md)
   * [Art. 294.](art_294.md)
-* [DZIAŁ CZTERNASTY(a)](DZIAL_CZTERNASTYa.md)
+* [DZIAŁ CZTERNASTY\(a\)](DZIAL_CZTERNASTYa.md)
   * [Art. 295.](art_295.md)
 * [DZIAŁ PIĘTNASTY](DZIAL_PIETNASTY.md)
   * [Art. 296.](art_296.md)
@@ -494,5 +494,4 @@
   * [Art. 303.](art_303.md)
   * [Art. 304.](art_304.md)
   * [Art. 305.](art_305.md)
-
 
