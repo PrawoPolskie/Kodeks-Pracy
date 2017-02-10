@@ -86,6 +86,7 @@
     * [Art. 22. \[Denificja stosunku pracy\]](art_22.md)
       * [§ 1](art_22-1.md)
       * [§ 1\(1\)](art_22-1_1.md)
+      * [§ 1\(2\)](art_22-1_2.md)
       * [§ 2](art_22-2.md)
       * [§ 3](art_22-3.md)
     * [Art. 22\(1\). \[Udostępnienie danych osobowych\]](art_22_1.md)
