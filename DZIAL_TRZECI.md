@@ -1,1 +1,6 @@
+## DZIAŁ TRZECI
+
 ### WYNAGRODZENIE ZA PRACĘ
+
+
+
