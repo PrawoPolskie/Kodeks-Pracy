@@ -1,3 +1,4 @@
 /* CSS for pdf */
+page-break-before: avoid;           
 page-break-after: avoid;
 page-break-inside: avoid;
